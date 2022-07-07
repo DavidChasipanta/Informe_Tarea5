@@ -62,71 +62,121 @@ Formando un determinante se obtiene: (0 + 3 + 0.15) - (0 + 0.8 + 0) = 3.15 - 0.8
 
 **12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26**
 
+![image](https://user-images.githubusercontent.com/105617383/177887782-56b7cab9-4285-49f1-9716-35ef50b48c16.png)
 
 **14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.**
 
+![image](https://user-images.githubusercontent.com/105617383/177887983-23f6e5f7-63f6-4e11-b3ca-14e4d733cb97.png)
 
-SECCIÓN 9-3 Método de la corriente en lazos
-16. Escriba el determinante característico para las ecuaciones:
-0.045IA + 0.130IB + 0.066IC = 0 0.177IA + 0.0420IB + 0.109IC = 12 0.078IA + 0.196IB + 0.029IC = 3.0
+La corriente Is es la misma que pasa R3
 
-18. Determine las corrientes de rama en la figura 9-28.
-image
+Is = IR3 = 100 mA
 
-20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
-image
+Se deduce que la corriente que entra es la misma que sale por lo tanto I1 = 100mA
 
-22. Determine la corriente a través de cada resistor en la figura 9-29.
-image
+I2 = (100 / 147)(100) = 68.03mA
 
-24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
-es la corriente que circula a través de él?
+**SECCIÓN 9-3 Método de la corriente en lazos**
 
-image
+**16. Escriba el determinante característico para las ecuaciones:**
 
-SECCIÓN 9-4 Método del voltaje en nodos
-26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
-con respecto a tierra.
+0.045IA + 0.130IB + 0.066IC = 0  → 0.177IA + 0.0420IB + 0.109IC = 12  → 0.078IA + 0.196IB + 0.029IC = 3.0
+
+**18. Determine las corrientes de rama en la figura 9-28.**
+
+![image](https://user-images.githubusercontent.com/105617383/177888593-9e816bc5-7a29-4047-aff5-578291b7c6b9.png)
+
+![image](https://user-images.githubusercontent.com/105617383/177888573-2c0124e7-ea37-4deb-8c26-f558781dae7e.png)
+
+**20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.**
+
+![image](https://user-images.githubusercontent.com/105617383/177888626-d0fae40b-03ba-442d-85fa-64939d3b987f.png)
+
+**22. Determine la corriente a través de cada resistor en la figura 9-29.**
+
+
+**24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
+es la corriente que circula a través de él?**
+
+
+
+**SECCIÓN 9-4 Método del voltaje en nodos**
+
+**26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
+con respecto a tierra.**
 
 image
 
 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
 voltajes de nodo.
 
-image
 
-*30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
-image
 
-CAPITULO 10
-PROBLEMAS
-SECCIÓN 10-1 El campo magnético
-2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?
-4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.
-SECCIÓN 10-2 Electromagnetismo
-6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a tra�vés del conductor se invierte?
-image
+**30. Determine el voltaje en los puntos A, B y C en la figura 9-34.**
 
-8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m^2 si la permeabilidad absoluta es de 150 x 10^(-7) Wb/At*m.
-SECCIÓN 10-3 Dispositivos electromagnéticos
-10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
-12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
-image
 
-SECCIÓN 10-4 Histéresis magnética
-14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
-16. En la figura 10-44, hay 500 vueltas. Determine
-(a) H (b) ∅ (c) f B
-image
+**CAPITULO 10**
 
-SECCIÓN 10-5 Inducción electromagnética
-18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
-20. Un campo magnético cambia a razón de 3500 x 10^(-3) Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
-SECCIÓN 10-6 Aplicaciones de la inducción electromagnética
-22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
-image
+**PROBLEMAS**
 
-24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+**SECCIÓN 10-1 El campo magnético**
+
+**2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?**
+
+![image](https://user-images.githubusercontent.com/105617383/177889891-b90e363b-a59a-4d2e-922b-9b3150096b56.png)
+
+**4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
+
+**SECCIÓN 10-2 Electromagnetismo**
+
+**6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?**
+
+![image](https://user-images.githubusercontent.com/105617383/177889930-49f59ff7-c928-4570-9b3e-81af339fd51d.png)
+
+* Si la corriente que pasa por el conductor se invierte, la rotación de las líneas de fuerza también se invertirían por ende la brújula llegaría a mostrar el lado opuesto.
+
+**8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m^2 si la permeabilidad absoluta es de 150 x 10^(-7) Wb/At*m.**
+
+![image](https://user-images.githubusercontent.com/105617383/177890018-549c6867-a73d-476e-941a-5fb23a876d53.png)
+
+**SECCIÓN 10-3 Dispositivos electromagnéticos**
+
+**10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
+
+**12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.**
+
+
+**SECCIÓN 10-4 Histéresis magnética**
+
+**14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?**
+
+**16. En la figura 10-44, hay 500 vueltas. Determine**
+
+**(a) H (b) ∅ (c) B**
+
+
+**SECCIÓN 10-5 Inducción electromagnética**
+
+**18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
+
+* Si la razón de cambio del flujo magnético se duplica, el voltaje inducido en la bobina también se duplicará, ya que según la ley de Faraday, el voltaje inducido en una bobina es directamente proporcional a la rapidez de cambio del campo magnético.
+
+**20. Un campo magnético cambia a razón de 3500 x 10^(-3) Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?**
+
+![image](https://user-images.githubusercontent.com/105617383/177889479-a01b9323-d18a-406b-97e2-ead10f2f4aa3.png)
+
+**SECCIÓN 10-6 Aplicaciones de la inducción electromagnética**
+
+**22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/105617383/177889526-4e7654b9-2bb7-42bb-9c44-42bd241573f7.png)
+
+* No produciría voltaje ya que el apéndice de acero o diente saliente no pasa por el entrehierro del imán, entonces al no producir un campo magnético cambiante, no hay voltaje inducido.
+
+**24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?**
+
+* Como una rotación tiene cuatro posiciones, entonces el voltaje de cd de salida llega 15 veces cada segundo a su pico alcanzando un voltaje máximo.
+
 # **4.VIDEO**
 
 # **5.CONCLUCIONES**
