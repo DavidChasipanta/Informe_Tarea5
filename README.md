@@ -3,9 +3,19 @@
 
 **Objtivo  General**
 
+Explicar y resolver los problemas presentados en los capítulos nueve y diez del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente al desarrollo de ecuaciones simultaneas para encontrar un voltaje y las corrientes en el análisis de un circuito eléctrico de manera ágil, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis y razonamiento adecuado.
+
 **Ojetivo Especifico**
 
+* Identificar de una manera concreta las incognitas, resolver los circuitos mediante los los metodos de mallas y nodos para hallas los valores de las corrientes y voltajes correspondientes.
+
+* Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos de formateórica.
+
+* Establecer los diferentes conocimientos sobre los campos magneticos, sus componentes y caracteristicas dentro de elementos.
+
 # **2.MARCO TEÓRICO**
+
+![image](https://user-images.githubusercontent.com/105617383/177857919-35977d11-95c8-4caf-ad22-7210187dbb9b.png)
 
 # **3.Explicación y resolución de ejercicios**
 
