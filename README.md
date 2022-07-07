@@ -20,8 +20,8 @@ Explicar y resolver los problemas presentados en los capítulos nueve y diez del
 # **3.Explicación y resolución de ejercicios**
 
 **PROBLEMAS**
-2. Evalúe cada determinante:
-image
+
+**2. Evalúe cada determinante:**
 
 (a) (4 * 3)-(2 * 6) = 0
 
@@ -31,21 +31,40 @@ image
 
 (d) ((-20) * 100)-(30 * 50) = -3500
 
-4. Evalúe cada uno de los determinantes:
-image
+**4. Evalúe cada uno de los determinantes:**
+
+![image](https://user-images.githubusercontent.com/105617383/177885644-da5539b1-9bbc-4378-ab9a-2cd03822bf50.png)
+
+a) -10+16 = 6
+
+b) (3 - 0.15 + 0.024 - 0.096 + 0.225 + 0.5) =3,503
+
+**6. Determine I3 en el ejemplo 9-4.**
+
+![image](https://user-images.githubusercontent.com/105617383/177886861-b7a61c0d-186e-4bf1-8ffe-810db40e3df7.png)
+
+Formando un determinante se obtiene: (0 + 3 + 0.15) - (0 + 0.8 + 0) = 3.15 - 0.8 = 2.35
+
+![image](https://user-images.githubusercontent.com/105617383/177887038-c2eaad54-4727-438f-bb11-b5f7030c1cc4.png)
+
+**8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:**
+
+![image](https://user-images.githubusercontent.com/105617383/177886405-32c4a06c-dd41-4533-b9ea-9b7f49815c81.png)
+
+![image](https://user-images.githubusercontent.com/105617383/177887369-7695abac-7ca9-4094-9add-70fd37f05b23.png)
+![image](https://user-images.githubusercontent.com/105617383/177887451-1bdae552-c81b-4817-a023-114d5fa7260c.png)
+
+**10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.**
+
+![image](https://user-images.githubusercontent.com/105617383/177887590-9bd95231-7091-485e-9ae4-b430b9b5ab25.png)
+
+**SECCIÓN 9-2 Método de la corriente en ramas**
+
+**12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26**
 
 
-6. Determine I3 en el ejemplo 9-4.
-image
+**14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.**
 
-8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
-10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
-SECCIÓN 9-2 Método de la corriente en ramas
-12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26
-image
-
-14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
-image
 
 SECCIÓN 9-3 Método de la corriente en lazos
 16. Escriba el determinante característico para las ecuaciones:
