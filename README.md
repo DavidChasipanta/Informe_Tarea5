@@ -64,6 +64,32 @@ Formando un determinante se obtiene: (0 + 3 + 0.15) - (0 + 0.8 + 0) = 3.15 - 0.8
 
 ![image](https://user-images.githubusercontent.com/105617383/177887782-56b7cab9-4285-49f1-9716-35ef50b48c16.png)
 
+Sistema de Ecuaciones
+
+(8.2) I2 + 10I2-12= 0 (1)
+
+10I2 + (5.6) I3 - 6 = 0 (2)
+
+Nodo A
+
+0 = I1 - I2 - I3
+
+I1 = I2 + I3 (3)
+
+Reemplazamos la ecuación (3) en la ecuación (1)
+
+(8.2) (I2 + I3) + 10I2 = 12
+
+(18.2) I2 + (8.2) I3= 12 (4)
+
+Despejamos la ecuación (2)
+
+I2 = 6 - 5.6 I3 / 10 
+
+Remplazamos I2 en la ecucación (4)
+
+![image](https://user-images.githubusercontent.com/105617383/177903381-0158a50d-0de9-46be-9e7d-df05afddb8b8.png)
+
 **14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.**
 
 ![image](https://user-images.githubusercontent.com/105617383/177887983-23f6e5f7-63f6-4e11-b3ca-14e4d733cb97.png)
@@ -82,6 +108,10 @@ I2 = (100 / 147)(100) = 68.03mA
 
 0.045IA + 0.130IB + 0.066IC = 0  → 0.177IA + 0.0420IB + 0.109IC = 12  → 0.078IA + 0.196IB + 0.029IC = 3.0
 
+Solución
+
+![image](https://user-images.githubusercontent.com/105617383/177903618-aaf47360-c6b8-4c4c-9618-9b3658ebd7cc.png)
+
 **18. Determine las corrientes de rama en la figura 9-28.**
 
 ![image](https://user-images.githubusercontent.com/105617383/177888593-9e816bc5-7a29-4047-aff5-578291b7c6b9.png)
@@ -92,15 +122,42 @@ I2 = (100 / 147)(100) = 68.03mA
 
 ![image](https://user-images.githubusercontent.com/105617383/177888626-d0fae40b-03ba-442d-85fa-64939d3b987f.png)
 
+LasoA: 7IA + 10(IA - IB) = 1.5
+
+LasoB: 10(IB - IA) + 27IB + 4.7(IB - IC) = 3
+
+LasoC: -4.7(IC - IB)+15IC = 1.5
+
 **22. Determine la corriente a través de cada resistor en la figura 9-29.**
 
 ![image](https://user-images.githubusercontent.com/105617383/177890596-fb17f5bb-4b04-461a-ad30-6ed3164e8902.png)
+
+LasoA: 7IA + 10(IA - IB) = 1.5
+
+LasoB: 10(IB - IA) + 27IB + 4.7(IB - IC) = 3
+
+LasoC: -4.7(IC - IB)+15IC = 1.5
+
+La corriente son:
+
+IA = 1.5mA
+
+IB = 0.16mA
+
+IC = 0.12mA
 
 **24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
 es la corriente que circula a través de él?**
 
 ![image](https://user-images.githubusercontent.com/105617383/177890613-047ebe88-2dc2-40fd-b00d-59c41ad2d7ce.png)
 
+![image](https://user-images.githubusercontent.com/105617383/177904873-51c8fe8a-c2c5-4005-b254-74606ddc1312.png)
+
+![image](https://user-images.githubusercontent.com/105617383/177904737-8396db2a-99f5-4978-b9fe-524c7a447cd2.png)
+
+![image](https://user-images.githubusercontent.com/105617383/177904762-5053d8f6-24d0-46ec-93a5-5213c120e6be.png)
+
+![image](https://user-images.githubusercontent.com/105617383/177904784-5105e187-a2c7-4272-8727-f7dd2b2403db.png)
 
 **SECCIÓN 9-4 Método del voltaje en nodos**
 
@@ -181,6 +238,8 @@ Va = 2.4177 V Vb = 0.768 V
 
 **4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
 
+![image](https://user-images.githubusercontent.com/105617383/177905219-18100bfe-cd83-4ec8-a2df-82ebe852e738.png)
+
 **SECCIÓN 10-2 Electromagnetismo**
 
 **6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?**
@@ -219,6 +278,33 @@ Va = 2.4177 V Vb = 0.768 V
 
 ![image](https://user-images.githubusercontent.com/105617383/177890269-1d4a6ba1-4691-42d2-b414-9237030838e3.png)
 
+**(a) H**
+
+H = Fm/l
+
+H= 500(0.25A) /(0.30Mm)
+
+H= 416 At/m
+
+**(b) ∅**
+
+R= l/micra A
+
+R= 0.30m /250 micra (0.30mx0.02m)
+
+R= 200x10^3 At/Wb
+
+ɸ = Fm/R
+
+ɸ= 500(0.25A)/ 200x10^3 At/Wb
+
+ɸ=6.25X10^(-4)
+
+**C) B = ɸ/ A**
+
+B= 6.25X10^(-4)/ (0.30mx0.02m)
+
+B= 0.1041
 
 **SECCIÓN 10-5 Inducción electromagnética**
 
