@@ -94,10 +94,12 @@ I2 = (100 / 147)(100) = 68.03mA
 
 **22. Determine la corriente a través de cada resistor en la figura 9-29.**
 
+![image](https://user-images.githubusercontent.com/105617383/177890596-fb17f5bb-4b04-461a-ad30-6ed3164e8902.png)
 
 **24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
 es la corriente que circula a través de él?**
 
+![image](https://user-images.githubusercontent.com/105617383/177890613-047ebe88-2dc2-40fd-b00d-59c41ad2d7ce.png)
 
 
 **SECCIÓN 9-4 Método del voltaje en nodos**
@@ -105,15 +107,67 @@ es la corriente que circula a través de él?**
 **26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
 con respecto a tierra.**
 
-image
+![image](https://user-images.githubusercontent.com/105617383/177890462-83ed7bae-0bf8-4e56-b93a-e72c5934224d.png)
 
-28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
-voltajes de nodo.
+![image](https://user-images.githubusercontent.com/105617383/177891908-8fa1c5b2-a406-4765-ac2a-fb84333bf3d0.png)
 
+I1-I2-I3=0
 
+Usando leyes de Ohm
+
+30-Va/82 – Va-40/68 – Va/147 =0
+
+30/82 – Va/82 – Va/68 + 40/68 – Va/147 = 0
+
+(9996(30)-9996Va-12054Va+12054(40)-5576Va) /819672=0
+
+782040-27626Va = 0
+
+Va = 782040/27626
+
+Va = 28.3 V
+
+**28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
+voltajes de nodo.**
+
+![image](https://user-images.githubusercontent.com/105617383/177890485-38dd1c3f-0638-47cc-a3c2-2646b7e001e4.png)
+
+I1 – I2 – I3 =0 (1)
+
+I3 + I4 – I5 = 0 (2)
+
+Sustituir las leyes de ohm en 1
+
+1.5- Va / 47 – Va/10 – (Va -Vb) /27= 0
+
+1.5/47 – Va/47 – Va/ 27 + Vb /27 = 0
+
+-270Va – 1269 Va – 470Va / 12690 + Vb /27 = -1.5 / 47
+
+2009 Va /12690 – Vb /27 = 1.5/47
+
+0.158 Va – 0.037 Vb = 0.0319
+
+Sustituir leyes de ohm en 2
+
+(Va – Vb) /27 +( 3-Vb) / 4.7 – (Vb -1.5) /15 =0
+
+Va/27 – Vb/27 + 3 / 4.7 – Vb / 4.7 – Vb / 15 + 1.5 /5 =0
+
+0.037 Va – 0.317Vb = -0. 738
+
+Sistema de ecuaciones
+
+0.158 Va – 0.037Vb = 0.0319 0.037Va – 0.317 Vb = -0.738
+
+Va = 2.4177 V Vb = 0.768 V
 
 **30. Determine el voltaje en los puntos A, B y C en la figura 9-34.**
 
+![image](https://user-images.githubusercontent.com/105617383/177890502-e46334de-c7b1-4d41-841f-6aac61dd4799.png)
+
+![image](https://user-images.githubusercontent.com/105617383/177892360-49e35169-9887-432c-86ae-05771e878c92.png)
+![image](https://user-images.githubusercontent.com/105617383/177892377-08cca953-6e7f-4575-97c5-f74429aa5efc.png)
 
 **CAPITULO 10**
 
@@ -143,16 +197,27 @@ voltajes de nodo.
 
 **10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
 
+![image](https://user-images.githubusercontent.com/105617383/177890146-fafcfedb-4e27-420a-9f76-42ab11013d40.png)
+
+-Cuando se llega a energizar un solenoide el émbolo de imán se llega a retraer, como se ve en la figura.
+
 **12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.**
 
+![image](https://user-images.githubusercontent.com/105617383/177890188-0497bf1b-b0db-4c37-a62c-4f458d23e343.png)
+
+* El circuito esta alimentado por una fuente de voltaje, y si el interruptor 1 (SW1) se cierra permite el paso de la corriente de la fuente hacia la bobina del relevador, la cual energiza el contacto que esta alimentado por 9V haciendo que se cierre y a su vez este ilumine las lámparas 1 y 2.
 
 **SECCIÓN 10-4 Histéresis magnética**
 
 **14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?**
 
+![image](https://user-images.githubusercontent.com/105617383/177890242-67aa2ceb-8381-424d-a648-45fe8a54ecd8.png)
+
 **16. En la figura 10-44, hay 500 vueltas. Determine**
 
 **(a) H (b) ∅ (c) B**
+
+![image](https://user-images.githubusercontent.com/105617383/177890269-1d4a6ba1-4691-42d2-b414-9237030838e3.png)
 
 
 **SECCIÓN 10-5 Inducción electromagnética**
@@ -167,7 +232,7 @@ voltajes de nodo.
 
 **SECCIÓN 10-6 Aplicaciones de la inducción electromagnética**
 
-**22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+**22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?**
 
 ![image](https://user-images.githubusercontent.com/105617383/177889526-4e7654b9-2bb7-42bb-9c44-42bd241573f7.png)
 
