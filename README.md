@@ -330,7 +330,10 @@ B= 0.1041
 
 # **4.VIDEO**
 
+https://youtu.be/WalCNJBIx0Y
+
 # **5.CONCLUCIONES**
+
 * El presente analisis permitio aplicar los metodos ya conocidos de resolucion de circuitos electricos de practicas anteriores, otrogo resultados confiables ya que fueron simulados, cada circuito reporto valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento del tema.
 
 # **BIBLIOGRAFÍA**
